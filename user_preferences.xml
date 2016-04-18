@@ -10,5 +10,5 @@
     <location name="Bantry, Co. Cork" latLng="51.6807778,-9.4535155" heading="72.24" pitch="30"/>
 
     <setting name="autoSaveMode" on="true"/>
-    <setting name="learningMode" on="true"/>
+    <setting name="learningMode" on="false"/>
 </UserPreferences>
