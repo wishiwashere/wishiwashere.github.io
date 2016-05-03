@@ -15,4 +15,5 @@
 	<location name="Bunker Hill Monument" latLng="42.3758808,-71.061045" heading="321" pitch="45" />
 	<location name="Inside the Whie House" latLng="38.8977679,-77.0365055" heading="184" pitch="5" />
 	<location name="Buckingham Palace" latLng="51.5021654,-0.1402688" heading="234" pitch="10" />
+	<location name="Hawaii" latLng="19.8114296,-156.0064283" heading="318" pitch="0" />
 </RandomLocations>
