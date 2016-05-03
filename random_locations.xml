@@ -9,4 +9,10 @@
     <location name="Times Square" latLng="40.7585806,-73.9850687" heading="30" pitch="20"/>
     <location name="Bantry, Co. Cork" latLng="51.6807778,-9.4535155" heading="72.24" pitch="30"/>
 	<location name="Hogsmeade" latLng="28.4731372,-81.4725983" heading="250.79" pitch="30" />
+	<location name="The Spire, Dublin" latLng="53.3495717,-6.2602632" heading="117" pitch="0" />
+	<location name="The Rock of Cashel" latLng="52.5202633,-7.8899142" heading="240" pitch="30" />
+	<location name="New York City Library" latLng="40.7527083,-73.9814555" heading="309" pitch="10" />
+	<location name="Bunker Hill Monument" latLng="42.3758808,-71.061045" heading="321" pitch="45" />
+	<location name="Inside the Whie House" latLng="38.8977679,-77.0365055" heading="184" pitch="5" />
+	<location name="Buckingham Palace" latLng="51.5021654,-0.1402688" heading="234" pitch="10" />
 </RandomLocations>
